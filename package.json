@@ -1,0 +1,17 @@
+{
+  "name": "codingtipsandtricks",
+  "version": "1.0.0",
+  "description": "Coding Tips and Tricks",
+  "main": "src/clean_functions.js",
+  "scripts": {
+    "test": "mocha 'test/**/*.tests.js'"
+  },
+  "author": "Matt Bentley",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.8",
+    "mocha": "^10.2.0",
+    "save-dev": "^0.0.1-security",
+    "sinon": "^16.0.0"
+  }
+}
